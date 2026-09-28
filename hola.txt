@@ -1,3 +1,4 @@
 Hola, estoy aprendiendo Git.
 Este es mi segundo cambio.
 Esta cambio sí lo quiero.
+Esta linea pertenece a mi nueva funcionalidad.
