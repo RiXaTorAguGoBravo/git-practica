@@ -8,3 +8,4 @@ Este cambio se hizo directamente en GitHub.
 Ahora entiendo cómo conectar Git con GitHub.
 Este cambio se hizo directamente en GitHub.
 Este cambio se hizo desde mi ordenador.
+Cambio realizado desde mi segunda copia.
