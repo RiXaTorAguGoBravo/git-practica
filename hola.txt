@@ -3,3 +3,4 @@ Este es mi segundo cambio.
 Esta cambio sí lo quiero.
 Esta linea pertenece a mi nueva funcionalidad.
 Esta línea fue modificada desde master y nueva-funcionalidad.
+Ahora entiendo cómo conectar Git con GitHub.
