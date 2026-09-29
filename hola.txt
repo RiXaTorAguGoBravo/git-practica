@@ -5,4 +5,6 @@ Esta linea pertenece a mi nueva funcionalidad.
 Esta línea fue modificada desde master y nueva-funcionalidad.
 Ahora entiendo cómo conectar Git con GitHub.
 Este cambio se hizo directamente en GitHub.
+Ahora entiendo cómo conectar Git con GitHub.
+Este cambio se hizo directamente en GitHub.
 Este cambio se hizo desde mi ordenador.
